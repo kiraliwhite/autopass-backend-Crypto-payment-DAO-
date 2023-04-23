@@ -1,0 +1,15 @@
+.vscode
+.encryptedKey.json
+
+.env
+node_modules
+cache
+artifacts
+deployments
+coverage
+coverage.json
+typechain
+
+.DS*
+*.log
+gas-report.txt
